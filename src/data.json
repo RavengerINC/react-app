@@ -1,0 +1,375 @@
+[
+    {
+        "id":"0",
+        "project":"TTG",
+        "date":"2017-01-01",
+        "category":"tv-animation",
+        "title":"Teen Titans GO",
+        "position":"Lead Compositor",
+        "description":"Teen Titans GO season 1-3",
+        "preview":"/TTG/TTG_preview.png",
+        "images":
+        [
+            { "high":"TTG/TTG_001_1080.png", "low":"TTG/TTG_001_256.png", "alt":"TTG 01"},
+            { "high":"TTG/TTG_002_1080.png", "low":"TTG/TTG_002_256.png", "alt":"TTG 02"},
+            { "high":"TTG/TTG_003_1080.png", "low":"TTG/TTG_003_256.png", "alt":"TTG 03"},
+            { "high":"TTG/TTG_004_1080.png", "low":"TTG/TTG_004_256.png", "alt":"TTG 04"},
+            { "high":"TTG/TTG_005_1080.png", "low":"TTG/TTG_005_256.png", "alt":"TTG 05"},
+            { "high":"TTG/TTG_006_1080.png", "low":"TTG/TTG_006_256.png", "alt":"TTG 06"},
+            { "high":"TTG/TTG_007_1080.png", "low":"TTG/TTG_007_256.png", "alt":"TTG 07"},
+            { "high":"TTG/TTG_008_1080.png", "low":"TTG/TTG_008_256.png", "alt":"TTG 08"},
+            { "high":"TTG/TTG_009_1080.png", "low":"TTG/TTG_009_256.png", "alt":"TTG 09"}
+        ],
+        "software":
+        [
+            {"icon":"logos/logo_afterEffects_256.png", "alt":"After Effects"},
+            {"icon":"logos/logo_flash_256.png", "alt":"Flash"},
+            {"icon":"logos/logo_finalCut_256.png", "alt":"Final Cut"}
+        ],
+        "writeup":""
+    },
+    {
+        "id":"1",
+        "project":"BVM",
+        "date":"2016-01-01",
+        "category":"tv-animation",
+        "title":"Bravoman",
+        "position":"Compositor",
+        "description":"Bravoman season 1",
+        "preview":"/BVM/BVM_preview.png",
+        "images":
+        [
+            { "high":"BVM/BVM_001_720.png", "low":"BVM/BVM_001_256.png", "alt":"BVM 01"},
+            { "high":"BVM/BVM_002_720.png", "low":"BVM/BVM_002_256.png", "alt":"BVM 02"},
+            { "high":"BVM/BVM_003_720.png", "low":"BVM/BVM_003_256.png", "alt":"BVM 03"},
+            { "high":"BVM/BVM_004_720.png", "low":"BVM/BVM_004_256.png", "alt":"BVM 04"},
+            { "high":"BVM/BVM_005_720.png", "low":"BVM/BVM_005_256.png", "alt":"BVM 05"},
+            { "high":"BVM/BVM_006_720.png", "low":"BVM/BVM_006_256.png", "alt":"BVM 06"}
+        ],
+        "software":
+        [
+            {"icon":"logos/logo_afterEffects_256.png", "alt":"After Effects"},
+            {"icon":"logos/logo_flash_256.png", "alt":"Flash"},
+            {"icon":"logos/logo_finalCut_256.png", "alt":"Final Cut"}
+        ],
+        "writeup":""
+    },
+    {
+        "id":"2",
+        "project":"IG2",
+        "date":"2017-06-06",
+        "category":"tv-animation",
+        "title":"Inspector Gadget",
+        "position":"Visual Effects Artist",
+        "description":"Inspector Gadget season 2",
+        "preview":"/IG2/IG2_preview.png",
+        "images":
+        [
+            { "high":"IG2/IG2_001_1080.png", "low":"IG2/IG2_001_256.png", "alt":"IG2 01"},
+            { "high":"IG2/IG2_002_1080.png", "low":"IG2/IG2_002_256.png", "alt":"IG2 02"},
+            { "high":"IG2/IG2_003_1080.png", "low":"IG2/IG2_003_256.png", "alt":"IG2 03"},
+            { "high":"IG2/IG2_004_1080.png", "low":"IG2/IG2_004_256.png", "alt":"IG2 04"},
+            { "high":"IG2/IG2_005_1080.png", "low":"IG2/IG2_005_256.png", "alt":"IG2 05"},
+            { "high":"IG2/IG2_006_1080.png", "low":"IG2/IG2_006_256.png", "alt":"IG2 06"},
+            { "high":"IG2/IG2_007_1080.png", "low":"IG2/IG2_007_256.png", "alt":"IG2 07"},
+            { "high":"IG2/IG2_008_1080.png", "low":"IG2/IG2_008_256.png", "alt":"IG2 08"},
+            { "high":"IG2/IG2_009_1080.png", "low":"IG2/IG2_009_256.png", "alt":"IG2 09"},
+            { "high":"IG2/IG2_010_1080.png", "low":"IG2/IG2_010_256.png", "alt":"IG2 10"},
+            { "high":"IG2/IG2_011_1080.png", "low":"IG2/IG2_011_256.png", "alt":"IG2 11"}
+        ],
+        "software":
+        [
+            {"icon":"logos/logo_maya_256.png", "alt":"Maya"},
+            {"icon":"logos/logo_nuke_256.png", "alt":"Nuke"},
+            {"icon":"logos/logo_renderman_256.png", "alt":"Renderman"}
+        ],
+        "writeup":""
+    },
+    {
+        "id":"3",
+        "project":"BB3",
+        "date":"2018-01-01",
+        "category":"tv-animation",
+        "title":"Bob the Builder",
+        "position":"Visual Effects Artist",
+        "description":"Bob the Builder season 3",
+        "preview":"/BB3/BB3_preview.png",
+        "images":
+        [
+            { "high":"BB3/BB3_001_1080.png", "low":"BB3/BB3_001_256.png", "alt":"BB3 01"},
+            { "high":"BB3/BB3_002_1080.png", "low":"BB3/BB3_002_256.png", "alt":"BB3 02"},
+            { "high":"BB3/BB3_003_1080.png", "low":"BB3/BB3_003_256.png", "alt":"BB3 03"},
+            { "high":"BB3/BB3_004_1080.png", "low":"BB3/BB3_004_256.png", "alt":"BB3 04"}
+        ],
+        "software":
+        [
+            {"icon":"logos/logo_maya_256.png", "alt":"Maya"},
+            {"icon":"logos/logo_nuke_256.png", "alt":"Nuke"},
+            {"icon":"logos/logo_renderman_256.png", "alt":"Renderman"}
+        ],
+        "writeup":""
+    },
+    {
+        "id":"4",
+        "project":"DZ2",
+        "date":"2018-06-06",
+        "category":"tv-animation",
+        "title":"Doozers",
+        "position":"Visual Effects Artist",
+        "description":"Doozers season 2",
+        "preview":"/DZ2/DZ2_preview.png",
+        "images":
+        [
+            { "high":"DZ2/DZ2_001_1080.png", "low":"DZ2/DZ2_001_256.png", "alt":"DZ2 01"},
+            { "high":"DZ2/DZ2_002_1080.png", "low":"DZ2/DZ2_002_256.png", "alt":"DZ2 02"},
+            { "high":"DZ2/DZ2_003_1080.png", "low":"DZ2/DZ2_003_256.png", "alt":"DZ2 03"},
+            { "high":"DZ2/DZ2_004_1080.png", "low":"DZ2/DZ2_004_256.png", "alt":"DZ2 04"},
+            { "high":"DZ2/DZ2_005_1080.png", "low":"DZ2/DZ2_005_256.png", "alt":"DZ2 05"}
+        ],
+        "software":
+        [
+            {"icon":"logos/logo_maya_256.png", "alt":"Maya"},
+            {"icon":"logos/logo_nuke_256.png", "alt":"Nuke"},
+            {"icon":"logos/logo_renderman_256.png", "alt":"Renderman"}
+        ],
+        "writeup":""
+    },
+    {
+        "id":"5",
+        "project":"CF1",
+        "date":"2019-01-01",
+        "category":"tv-animation",
+        "title":"Colorforms",
+        "position":"Visual Effects Artist",
+        "description":"Charlie's Colorform City season 1",
+        "preview":"/CF1/CF1_preview.png",
+        "images":
+        [
+            { "high":"CF1/CF1_001_720.png", "low":"CF1/CF1_001_256.png", "alt":"CF1 01"},
+            { "high":"CF1/CF1_002_720.png", "low":"CF1/CF1_002_256.png", "alt":"CF1 02"},
+            { "high":"CF1/CF1_003_720.png", "low":"CF1/CF1_003_256.png", "alt":"CF1 03"},
+            { "high":"CF1/CF1_004_720.png", "low":"CF1/CF1_004_256.png", "alt":"CF1 04"}
+        ],
+        "software":
+        [
+            {"icon":"logos/logo_houdini_256.png", "alt":"Houdini"},
+            {"icon":"logos/logo_maya_256.png", "alt":"Maya"},
+            {"icon":"logos/logo_nuke_256.png", "alt":"Nuke"},
+            {"icon":"logos/logo_renderman_256.png", "alt":"Renderman"}
+        ],
+        "writeup":""
+    },
+    {
+        "id":"6",
+        "project":"RR1",
+        "date":"2019-06-06",
+        "category":"tv-animation",
+        "title":"Rev and Roll",
+        "position":"Visual Effects Artist",
+        "description":"Rev and Roll season 1",
+        "preview":"/RR1/RR1_preview.png",
+        "images":
+        [
+            { "high":"/RR1/RR1_001_720.png", "low":"RR1/RR1_001_256.png", "alt":"RR1 01"},
+            { "high":"/RR1/RR1_002_720.png", "low":"RR1/RR1_002_256.png", "alt":"RR1 02"},
+            { "high":"/RR1/RR1_003_720.png", "low":"RR1/RR1_003_256.png", "alt":"RR1 03"},
+            { "high":"/RR1/RR1_004_720.png", "low":"RR1/RR1_004_256.png", "alt":"RR1 04"},
+            { "high":"/RR1/RR1_005_720.png", "low":"RR1/RR1_005_256.png", "alt":"RR1 05"},
+            { "high":"/RR1/RR1_006_720.png", "low":"RR1/RR1_006_256.png", "alt":"RR1 06"},
+            { "high":"/RR1/RR1_007_720.png", "low":"RR1/RR1_007_256.png", "alt":"RR1 07"}
+        ],
+        "software":
+        [
+            {"icon":"logos/logo_houdini_256.png", "alt":"Houdini"},
+            {"icon":"logos/logo_maya_256.png", "alt":"Maya"},
+            {"icon":"logos/logo_nuke_256.png", "alt":"Nuke"},
+            {"icon":"logos/logo_renderman_256.png", "alt":"Renderman"}
+        ],
+        "writeup":""
+    },
+    {
+        "id":"7",
+        "project":"FS12",
+        "date":"2021-01-01",
+        "category":"tv-animation",
+        "title":"Fireman Sam",
+        "position":"Visual Effects Lead",
+        "description":"Fireman Sam season 12",
+        "preview":"/FS12/FS12_preview.png",
+        "images":
+        [
+            { "high":"/FS12/FS12_001_720.png", "low":"FS12/FS12_001_256.png", "alt":"FS12 01"},
+            { "high":"/FS12/FS12_002_720.png", "low":"FS12/FS12_002_256.png", "alt":"FS12 02"},
+            { "high":"/FS12/FS12_003_720.png", "low":"FS12/FS12_003_256.png", "alt":"FS12 03"},
+            { "high":"/FS12/FS12_004_720.png", "low":"FS12/FS12_004_256.png", "alt":"FS12 04"},
+            { "high":"/FS12/FS12_005_720.png", "low":"FS12/FS12_005_256.png", "alt":"FS12 05"},
+            { "high":"/FS12/FS12_006_720.png", "low":"FS12/FS12_006_256.png", "alt":"FS12 06"}
+        ],
+        "software":
+        [
+            {"icon":"logos/logo_houdini_256.png", "alt":"Houdini"},
+            {"icon":"logos/logo_maya_256.png", "alt":"Maya"},
+            {"icon":"logos/logo_nuke_256.png", "alt":"Nuke"},
+            {"icon":"logos/logo_renderman_256.png", "alt":"Renderman"}
+        ],
+        "writeup":""
+    },
+    {
+        "id":"8",
+        "project":"CF2",
+        "date":"2022-01-01",
+        "category":"tv-animation",
+        "title":"Colorforms",
+        "position":"Visual Effects Lead",
+        "description":"Charlie's Coloform City season 2",
+        "preview":"/CF2/CF2_preview.png",
+        "images":
+        [
+            { "high":"/CF2/CF2_001_1080.png", "low":"CF2/CF2_001_256.png", "alt":"CF2 01"},
+            { "high":"/CF2/CF2_002_1080.png", "low":"CF2/CF2_002_256.png", "alt":"CF2 02"},
+            { "high":"/CF2/CF2_003_1080.png", "low":"CF2/CF2_003_256.png", "alt":"CF2 03"},
+            { "high":"/CF2/CF2_004_1080.png", "low":"CF2/CF2_004_256.png", "alt":"CF2 04"},
+            { "high":"/CF2/CF2_005_1080.png", "low":"CF2/CF2_005_256.png", "alt":"CF2 05"},
+            { "high":"/CF2/CF2_006_1080.png", "low":"CF2/CF2_006_256.png", "alt":"CF2 06"},
+            { "high":"/CF2/CF2_007_1080.png", "low":"CF2/CF2_007_256.png", "alt":"CF2 07"},
+            { "high":"/CF2/CF2_008_1080.png", "low":"CF2/CF2_008_256.png", "alt":"CF2 08"},
+            { "high":"/CF2/CF2_009_1080.png", "low":"CF2/CF2_009_256.png", "alt":"CF2 09"},
+            { "high":"/CF2/CF2_010_1080.png", "low":"CF2/CF2_010_256.png", "alt":"CF2 10"},
+            { "high":"/CF2/CF2_011_1080.png", "low":"CF2/CF2_011_256.png", "alt":"CF2 11"},
+            { "high":"/CF2/CF2_012_1080.png", "low":"CF2/CF2_012_256.png", "alt":"CF2 12"},
+            { "high":"/CF2/CF2_013_1080.png", "low":"CF2/CF2_013_256.png", "alt":"CF2 13"},
+            { "high":"/CF2/CF2_014_1080.png", "low":"CF2/CF2_014_256.png", "alt":"CF2 14"},
+            { "high":"/CF2/CF2_015_1080.png", "low":"CF2/CF2_015_256.png", "alt":"CF2 15"},
+            { "high":"/CF2/CF2_016_1080.png", "low":"CF2/CF2_016_256.png", "alt":"CF2 16"}
+        ],
+        "software":
+        [
+            {"icon":"logos/logo_houdini_256.png", "alt":"Houdini"},
+            {"icon":"logos/logo_maya_256.png", "alt":"Maya"},
+            {"icon":"logos/logo_nuke_256.png", "alt":"Nuke"},
+            {"icon":"logos/logo_renderman_256.png", "alt":"Renderman"}
+        ],
+        "writeup":""
+    },
+    {
+        "id":"9",
+        "project":"CA1",
+        "date":"2022-06-06",
+        "category":"tv-animation",
+        "title":"Caillou",
+        "position":"Technical Artist",
+        "description":"Caillou Specials",
+        "preview":"/CA1/CA1_preview.png",
+        "images":
+        [
+            { "high":"/CA1/CA1_001_1080.png", "low":"CA1/CA1_001_256.png", "alt":"CA1 01"},
+            { "high":"/CA1/CA1_002_1080.png", "low":"CA1/CA1_002_256.png", "alt":"CA1 02"},
+            { "high":"/CA1/CA1_003_1080.png", "low":"CA1/CA1_003_256.png", "alt":"CA1 03"},
+            { "high":"/CA1/CA1_004_1080.png", "low":"CA1/CA1_004_256.png", "alt":"CA1 04"}
+        ],
+        "software":
+        [
+            {"icon":"logos/logo_houdini_256.png", "alt":"Houdini"},
+            {"icon":"logos/logo_maya_256.png", "alt":"Maya"},
+            {"icon":"logos/logo_nuke_256.png", "alt":"Nuke"},
+            {"icon":"logos/logo_redshift_256.png", "alt":"Redshift"}
+        ],
+        "writeup":"For the Caillou specials I built reusable systems and simulated elements. Some examples are- an infinitely-scaling ocean in redshift, with procedural elements to add interaction along the shoreline, wharf, and any docked boats. A Houdini fire simulation was exported as a re-usable cache, added to sets, and shaded in Redshift. A flickering candle setup was built as a reusable Nuke tool, to be added to shots later by compositors. Moving boat interactions were done with a combination of procedurally generated waves from Houdini and Nuke particles for the white water. A template for the underwater scenes was created in Nuke using a combination of colour corrects, depth passes, light rays and particles. Some research was done on using plates rendered from Houdini for snow interactions."
+    },
+
+    {
+        "id":"10",
+        "project":"END",
+        "date":"2023-05-01",
+        "category":"game",
+        "title":"Endobiotic",
+        "position":"Game Jammer",
+        "description":"Endobiotic - Game Jam entry",
+        "preview":"/END/END_001_256.png",
+        "images":
+        [
+            { "high":"/END/END_001_256.png", "low":"/END/END_001_256.png", "alt":"END 01"},
+            { "high":"/END/END_002_256.png", "low":"/END/END_002_256.png", "alt":"END 02"},
+            { "high":"/END/END_003_256.png", "low":"/END/END_003_256.png", "alt":"END 03"},
+            { "high":"/END/END_004_256.png", "low":"/END/END_004_256.png", "alt":"END 04"}
+        ],
+        "software":
+        [
+            {"icon":"logos/logo_unity_256.png", "alt":"Unity"},
+            {"icon":"logos/logo_github_256.png", "alt":"Github"}
+        ],
+        "writeup":""
+    },
+
+    {
+        "id":"11",
+        "project":"MVA",
+        "date":"2022-05-30",
+        "category":"game",
+        "title":"Mushrooms vs Ants",
+        "position":"Game Jammer",
+        "description":"Mushrooms vs Ants - Game Dev TV Jam 2022",
+        "preview":"/MVA/MVA_001_256.png",
+        "images":
+        [
+            { "high":"/MVA/MVA_001_720.png", "low":"/MVA/MVA_001_256.png", "alt":"MVN 01"}
+        ],
+        "software":
+        [
+            {"icon":"logos/logo_unity_256.png", "alt":"Unity"},
+            {"icon":"logos/logo_houdini_256.png", "alt":"Houdini"},
+            {"icon":"logos/logo_blender_256.png", "alt":"Blender"},
+            {"icon":"logos/logo_photoshop_256.png", "alt":"Photoshop"},
+            {"icon":"logos/logo_github_256.png", "alt":"Github"}
+        ],
+        "writeup":""
+    },
+
+    {
+        "id":"12",
+        "project":"NTM",
+        "date":"2022-06-25",
+        "category":"game",
+        "title":"Never Tell Me The Odds",
+        "position":"Game Jammer",
+        "description":"Never Tell Me The Odds - SideFX Game Jam 2022",
+        "preview":"/NTM/NTM_001_256.png",
+        "images":
+        [
+            { "high":"/NTM/NTM_001_720.png", "low":"/NTM/NTM_001_256.png", "alt":"NTM 01"},
+            { "high":"/NTM/NTM_002_720.png", "low":"/NTM/NTM_002_256.png", "alt":"NTM 02"}
+        ],
+        "software":
+        [
+            {"icon":"logos/logo_unity_256.png", "alt":"Unity"},
+            {"icon":"logos/logo_houdini_256.png", "alt":"Houdini"},
+            {"icon":"logos/logo_blender_256.png", "alt":"Blender"},
+            {"icon":"logos/logo_github_256.png", "alt":"Github"}
+        ],
+        "writeup":""
+    },
+
+    {
+        "id":"13",
+        "project":"UTH",
+        "date":"2023-06-14",
+        "category":"game",
+        "title":"Ultima Thule",
+        "position":"Solo Developer",
+        "description":"Solo inde-dev game project",
+        "preview":"/UTH/UTH_001_256.png",
+        "images":
+        [
+            { "high":"/UTH/UTH_001_1080.png", "low":"/UTH/UTH_001_256.png", "alt":"UTH 01"}
+        ],
+        "software":
+        [
+            {"icon":"logos/logo_unity_256.png", "alt":"Unity"},
+            {"icon":"logos/logo_houdini_256.png", "alt":"Houdini"},
+            {"icon":"logos/logo_blender_256.png", "alt":"Blender"},
+            {"icon":"logos/logo_photoshop_256.png", "alt":"Photoshop"},
+            {"icon":"logos/logo_github_256.png", "alt":"Github"}
+        ],
+        "writeup":"Ultima Thule is the working name of my long-time Unity game project. Started over a decade ago with zero game devlopment knowledge the project has grown, shrunk, been tossed out and started from scratch. The only constants in the project have been the use of the Unity game engine and desire to expand on the beloved turn-based games of my youth."
+    }
+]

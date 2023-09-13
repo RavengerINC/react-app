@@ -1,0 +1,32 @@
+.FeaturePreview {
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0px 3px 0px 0px rgba(0, 0, 0, 0.05);
+  padding: 0;
+}
+
+.FeaturePreview h2 {
+  text-align: center;
+  font-size: 1.35em;
+}
+
+.FeaturePreview p {
+  margin: 0;
+}
+
+.FeatureDescription {
+  padding: 1em;
+}
+
+.FeatureLink {
+  display: block;
+  width: 100%;
+  margin: 0;
+  border-radius: 8;
+}
+
+.FeaturePreview img {
+  width: 100%;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}

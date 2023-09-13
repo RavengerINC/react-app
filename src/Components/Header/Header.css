@@ -1,0 +1,95 @@
+/* Header */
+
+.Header {
+  position: relative;
+  margin: 3em 0 1.5em 0;
+}
+
+/* Logo */
+
+.Logo {
+  display: inline-block;
+}
+
+.Logo h1 {
+  background: #688bc0;
+  color: #fff;
+  border-radius: 6px;
+  font-family: 'Oleo Script', serif;
+  font-weight: 400;
+  padding: 0.25em 0.2em 0.25em 0.2em;
+  font-size: 2.25em;
+  letter-spacing: 0.05em;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.Logo span {
+  font-weight: 800;
+  line-height: 4.5em;
+  letter-spacing: 0.025em;
+  font-size: 0.9em;
+  vertical-align: middle;
+  margin: 0 0 0 1.25em;
+}
+
+/* Nav */
+
+.Nav {
+  position: absolute;
+  right: 0;
+  top: 0;
+  font-size: 0.9em;
+}
+
+.Nav ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.Nav ul li {
+  float: left;
+  line-height: 4.5em;
+  padding-left: 0.25em;
+}
+
+.Nav ul li a, .Nav ul li span {
+  font-weight: 800;
+  letter-spacing: 0.025em;
+  text-decoration: none;
+  border-radius: 6px;
+  padding: 0.5em 1em 0.5em 1em;
+}
+
+.active-nav{
+  color: #ffffff;
+  background: #444;
+}
+
+.pending-nav {
+  color: #696969;
+}
+
+@media only screen and (max-width: 980px) {
+  .Logo {
+    display: block;
+    width: 100%;
+    text-align: center;
+  }
+
+  .Nav {
+    position: unset;
+    display: block;
+  }
+
+  .Nav ul {
+    float: unset;
+  }
+
+  .Nav li {
+    float: unset;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+}

@@ -1,0 +1,56 @@
+.Feature {
+    position: relative;
+    margin: 40px;
+}
+
+.Feature img {
+    width: 100%;
+    height: auto;
+}
+
+.Title {
+    float: left;
+    width: 50%;
+}
+
+.SoftwareIcons {
+    float: right;
+}
+
+.SoftwareIcons img {
+    width: 48px;
+}
+
+.Writeup {
+    clear: both
+}
+
+/* Smaller screens and tablets */
+@media only screen and (max-width: 980px) {
+    .Feature {
+        margin: 0;
+    }
+
+    .Title {
+        float: none;
+        width: 100%;
+    }
+
+    .SoftwareIcons {
+        float: none;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        margin: 10px;
+    }
+
+    h1 {
+        display: block;
+        margin: 0px auto;
+        text-align: center;
+    }
+
+    p {
+        text-align: center;
+    }
+}

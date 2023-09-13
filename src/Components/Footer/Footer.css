@@ -1,0 +1,9 @@
+.Footer {    
+    margin: 3em 0 1.5em 0;
+    position: flex;
+    text-align: center;
+}
+
+.Footer li {
+    list-style: none;
+}
