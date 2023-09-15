@@ -7,7 +7,7 @@ function FeaturePreview(props) {
     return (
         <section className="FeaturePreview">            
             <Link to={`/features/${id}`} className="FeatureLink">
-                <img src={`${process.env.PUBLIC_URL}images/${preview}`} alt={title} ClassName="Image"/>
+                <img src={`${process.env.PUBLIC_URL}/images/${preview}`} alt={title} ClassName="Image"/>
             </Link>
             <div className="FeatureDescription">
                 <h2>{title}</h2>

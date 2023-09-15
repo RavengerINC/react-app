@@ -7,7 +7,7 @@
         "title":"Teen Titans GO",
         "position":"Lead Compositor",
         "description":"Teen Titans GO season 1-3",
-        "preview":"/TTG/TTG_preview.png",
+        "preview":"TTG/TTG_preview.png",
         "images":
         [
             { "high":"TTG/TTG_001_1080.png", "low":"TTG/TTG_001_256.png", "alt":"TTG 01"},
@@ -36,7 +36,7 @@
         "title":"Bravoman",
         "position":"Compositor",
         "description":"Bravoman season 1",
-        "preview":"/BVM/BVM_preview.png",
+        "preview":"BVM/BVM_preview.png",
         "images":
         [
             { "high":"BVM/BVM_001_720.png", "low":"BVM/BVM_001_256.png", "alt":"BVM 01"},
@@ -62,7 +62,7 @@
         "title":"Inspector Gadget",
         "position":"Visual Effects Artist",
         "description":"Inspector Gadget season 2",
-        "preview":"/IG2/IG2_preview.png",
+        "preview":"IG2/IG2_preview.png",
         "images":
         [
             { "high":"IG2/IG2_001_1080.png", "low":"IG2/IG2_001_256.png", "alt":"IG2 01"},
@@ -93,7 +93,7 @@
         "title":"Bob the Builder",
         "position":"Visual Effects Artist",
         "description":"Bob the Builder season 3",
-        "preview":"/BB3/BB3_preview.png",
+        "preview":"BB3/BB3_preview.png",
         "images":
         [
             { "high":"BB3/BB3_001_1080.png", "low":"BB3/BB3_001_256.png", "alt":"BB3 01"},
@@ -117,7 +117,7 @@
         "title":"Doozers",
         "position":"Visual Effects Artist",
         "description":"Doozers season 2",
-        "preview":"/DZ2/DZ2_preview.png",
+        "preview":"DZ2/DZ2_preview.png",
         "images":
         [
             { "high":"DZ2/DZ2_001_1080.png", "low":"DZ2/DZ2_001_256.png", "alt":"DZ2 01"},
@@ -142,7 +142,7 @@
         "title":"Colorforms",
         "position":"Visual Effects Artist",
         "description":"Charlie's Colorform City season 1",
-        "preview":"/CF1/CF1_preview.png",
+        "preview":"CF1/CF1_preview.png",
         "images":
         [
             { "high":"CF1/CF1_001_720.png", "low":"CF1/CF1_001_256.png", "alt":"CF1 01"},
@@ -167,16 +167,16 @@
         "title":"Rev and Roll",
         "position":"Visual Effects Artist",
         "description":"Rev and Roll season 1",
-        "preview":"/RR1/RR1_preview.png",
+        "preview":"RR1/RR1_preview.png",
         "images":
         [
-            { "high":"/RR1/RR1_001_720.png", "low":"RR1/RR1_001_256.png", "alt":"RR1 01"},
-            { "high":"/RR1/RR1_002_720.png", "low":"RR1/RR1_002_256.png", "alt":"RR1 02"},
-            { "high":"/RR1/RR1_003_720.png", "low":"RR1/RR1_003_256.png", "alt":"RR1 03"},
-            { "high":"/RR1/RR1_004_720.png", "low":"RR1/RR1_004_256.png", "alt":"RR1 04"},
-            { "high":"/RR1/RR1_005_720.png", "low":"RR1/RR1_005_256.png", "alt":"RR1 05"},
-            { "high":"/RR1/RR1_006_720.png", "low":"RR1/RR1_006_256.png", "alt":"RR1 06"},
-            { "high":"/RR1/RR1_007_720.png", "low":"RR1/RR1_007_256.png", "alt":"RR1 07"}
+            { "high":"RR1/RR1_001_720.png", "low":"RR1/RR1_001_256.png", "alt":"RR1 01"},
+            { "high":"RR1/RR1_002_720.png", "low":"RR1/RR1_002_256.png", "alt":"RR1 02"},
+            { "high":"RR1/RR1_003_720.png", "low":"RR1/RR1_003_256.png", "alt":"RR1 03"},
+            { "high":"RR1/RR1_004_720.png", "low":"RR1/RR1_004_256.png", "alt":"RR1 04"},
+            { "high":"RR1/RR1_005_720.png", "low":"RR1/RR1_005_256.png", "alt":"RR1 05"},
+            { "high":"RR1/RR1_006_720.png", "low":"RR1/RR1_006_256.png", "alt":"RR1 06"},
+            { "high":"RR1/RR1_007_720.png", "low":"RR1/RR1_007_256.png", "alt":"RR1 07"}
         ],
         "software":
         [
@@ -195,15 +195,15 @@
         "title":"Fireman Sam",
         "position":"Visual Effects Lead",
         "description":"Fireman Sam season 12",
-        "preview":"/FS12/FS12_preview.png",
+        "preview":"FS12/FS12_preview.png",
         "images":
         [
-            { "high":"/FS12/FS12_001_720.png", "low":"FS12/FS12_001_256.png", "alt":"FS12 01"},
-            { "high":"/FS12/FS12_002_720.png", "low":"FS12/FS12_002_256.png", "alt":"FS12 02"},
-            { "high":"/FS12/FS12_003_720.png", "low":"FS12/FS12_003_256.png", "alt":"FS12 03"},
-            { "high":"/FS12/FS12_004_720.png", "low":"FS12/FS12_004_256.png", "alt":"FS12 04"},
-            { "high":"/FS12/FS12_005_720.png", "low":"FS12/FS12_005_256.png", "alt":"FS12 05"},
-            { "high":"/FS12/FS12_006_720.png", "low":"FS12/FS12_006_256.png", "alt":"FS12 06"}
+            { "high":"FS12/FS12_001_720.png", "low":"FS12/FS12_001_256.png", "alt":"FS12 01"},
+            { "high":"FS12/FS12_002_720.png", "low":"FS12/FS12_002_256.png", "alt":"FS12 02"},
+            { "high":"FS12/FS12_003_720.png", "low":"FS12/FS12_003_256.png", "alt":"FS12 03"},
+            { "high":"FS12/FS12_004_720.png", "low":"FS12/FS12_004_256.png", "alt":"FS12 04"},
+            { "high":"FS12/FS12_005_720.png", "low":"FS12/FS12_005_256.png", "alt":"FS12 05"},
+            { "high":"FS12/FS12_006_720.png", "low":"FS12/FS12_006_256.png", "alt":"FS12 06"}
         ],
         "software":
         [
@@ -222,25 +222,25 @@
         "title":"Colorforms",
         "position":"Visual Effects Lead",
         "description":"Charlie's Coloform City season 2",
-        "preview":"/CF2/CF2_preview.png",
+        "preview":"CF2/CF2_preview.png",
         "images":
         [
-            { "high":"/CF2/CF2_001_1080.png", "low":"CF2/CF2_001_256.png", "alt":"CF2 01"},
-            { "high":"/CF2/CF2_002_1080.png", "low":"CF2/CF2_002_256.png", "alt":"CF2 02"},
-            { "high":"/CF2/CF2_003_1080.png", "low":"CF2/CF2_003_256.png", "alt":"CF2 03"},
-            { "high":"/CF2/CF2_004_1080.png", "low":"CF2/CF2_004_256.png", "alt":"CF2 04"},
-            { "high":"/CF2/CF2_005_1080.png", "low":"CF2/CF2_005_256.png", "alt":"CF2 05"},
-            { "high":"/CF2/CF2_006_1080.png", "low":"CF2/CF2_006_256.png", "alt":"CF2 06"},
-            { "high":"/CF2/CF2_007_1080.png", "low":"CF2/CF2_007_256.png", "alt":"CF2 07"},
-            { "high":"/CF2/CF2_008_1080.png", "low":"CF2/CF2_008_256.png", "alt":"CF2 08"},
-            { "high":"/CF2/CF2_009_1080.png", "low":"CF2/CF2_009_256.png", "alt":"CF2 09"},
-            { "high":"/CF2/CF2_010_1080.png", "low":"CF2/CF2_010_256.png", "alt":"CF2 10"},
-            { "high":"/CF2/CF2_011_1080.png", "low":"CF2/CF2_011_256.png", "alt":"CF2 11"},
-            { "high":"/CF2/CF2_012_1080.png", "low":"CF2/CF2_012_256.png", "alt":"CF2 12"},
-            { "high":"/CF2/CF2_013_1080.png", "low":"CF2/CF2_013_256.png", "alt":"CF2 13"},
-            { "high":"/CF2/CF2_014_1080.png", "low":"CF2/CF2_014_256.png", "alt":"CF2 14"},
-            { "high":"/CF2/CF2_015_1080.png", "low":"CF2/CF2_015_256.png", "alt":"CF2 15"},
-            { "high":"/CF2/CF2_016_1080.png", "low":"CF2/CF2_016_256.png", "alt":"CF2 16"}
+            { "high":"CF2/CF2_001_1080.png", "low":"CF2/CF2_001_256.png", "alt":"CF2 01"},
+            { "high":"CF2/CF2_002_1080.png", "low":"CF2/CF2_002_256.png", "alt":"CF2 02"},
+            { "high":"CF2/CF2_003_1080.png", "low":"CF2/CF2_003_256.png", "alt":"CF2 03"},
+            { "high":"CF2/CF2_004_1080.png", "low":"CF2/CF2_004_256.png", "alt":"CF2 04"},
+            { "high":"CF2/CF2_005_1080.png", "low":"CF2/CF2_005_256.png", "alt":"CF2 05"},
+            { "high":"CF2/CF2_006_1080.png", "low":"CF2/CF2_006_256.png", "alt":"CF2 06"},
+            { "high":"CF2/CF2_007_1080.png", "low":"CF2/CF2_007_256.png", "alt":"CF2 07"},
+            { "high":"CF2/CF2_008_1080.png", "low":"CF2/CF2_008_256.png", "alt":"CF2 08"},
+            { "high":"CF2/CF2_009_1080.png", "low":"CF2/CF2_009_256.png", "alt":"CF2 09"},
+            { "high":"CF2/CF2_010_1080.png", "low":"CF2/CF2_010_256.png", "alt":"CF2 10"},
+            { "high":"CF2/CF2_011_1080.png", "low":"CF2/CF2_011_256.png", "alt":"CF2 11"},
+            { "high":"CF2/CF2_012_1080.png", "low":"CF2/CF2_012_256.png", "alt":"CF2 12"},
+            { "high":"CF2/CF2_013_1080.png", "low":"CF2/CF2_013_256.png", "alt":"CF2 13"},
+            { "high":"CF2/CF2_014_1080.png", "low":"CF2/CF2_014_256.png", "alt":"CF2 14"},
+            { "high":"CF2/CF2_015_1080.png", "low":"CF2/CF2_015_256.png", "alt":"CF2 15"},
+            { "high":"CF2/CF2_016_1080.png", "low":"CF2/CF2_016_256.png", "alt":"CF2 16"}
         ],
         "software":
         [
@@ -259,13 +259,13 @@
         "title":"Caillou",
         "position":"Technical Artist",
         "description":"Caillou Specials",
-        "preview":"/CA1/CA1_preview.png",
+        "preview":"CA1/CA1_preview.png",
         "images":
         [
-            { "high":"/CA1/CA1_001_1080.png", "low":"CA1/CA1_001_256.png", "alt":"CA1 01"},
-            { "high":"/CA1/CA1_002_1080.png", "low":"CA1/CA1_002_256.png", "alt":"CA1 02"},
-            { "high":"/CA1/CA1_003_1080.png", "low":"CA1/CA1_003_256.png", "alt":"CA1 03"},
-            { "high":"/CA1/CA1_004_1080.png", "low":"CA1/CA1_004_256.png", "alt":"CA1 04"}
+            { "high":"CA1/CA1_001_1080.png", "low":"CA1/CA1_001_256.png", "alt":"CA1 01"},
+            { "high":"CA1/CA1_002_1080.png", "low":"CA1/CA1_002_256.png", "alt":"CA1 02"},
+            { "high":"CA1/CA1_003_1080.png", "low":"CA1/CA1_003_256.png", "alt":"CA1 03"},
+            { "high":"CA1/CA1_004_1080.png", "low":"CA1/CA1_004_256.png", "alt":"CA1 04"}
         ],
         "software":
         [
@@ -285,13 +285,13 @@
         "title":"Endobiotic",
         "position":"Game Jammer",
         "description":"Endobiotic - Game Jam entry",
-        "preview":"/END/END_001_256.png",
+        "preview":"END/END_001_256.png",
         "images":
         [
-            { "high":"/END/END_001_256.png", "low":"/END/END_001_256.png", "alt":"END 01"},
-            { "high":"/END/END_002_256.png", "low":"/END/END_002_256.png", "alt":"END 02"},
-            { "high":"/END/END_003_256.png", "low":"/END/END_003_256.png", "alt":"END 03"},
-            { "high":"/END/END_004_256.png", "low":"/END/END_004_256.png", "alt":"END 04"}
+            { "high":"END/END_001_256.png", "low":"/END/END_001_256.png", "alt":"END 01"},
+            { "high":"END/END_002_215.png", "low":"/END/END_002_215.png", "alt":"END 02"},
+            { "high":"END/END_003_215.png", "low":"/END/END_003_215.png", "alt":"END 03"},
+            { "high":"END/END_004_215.png", "low":"/END/END_004_215.png", "alt":"END 04"}
         ],
         "software":
         [
@@ -309,10 +309,10 @@
         "title":"Mushrooms vs Ants",
         "position":"Game Jammer",
         "description":"Mushrooms vs Ants - Game Dev TV Jam 2022",
-        "preview":"/MVA/MVA_001_256.png",
+        "preview":"MVA/MVA_001_256.png",
         "images":
         [
-            { "high":"/MVA/MVA_001_720.png", "low":"/MVA/MVA_001_256.png", "alt":"MVN 01"}
+            { "high":"MVA/MVA_001_720.png", "low":"/MVA/MVA_001_256.png", "alt":"MVN 01"}
         ],
         "software":
         [
@@ -333,11 +333,11 @@
         "title":"Never Tell Me The Odds",
         "position":"Game Jammer",
         "description":"Never Tell Me The Odds - SideFX Game Jam 2022",
-        "preview":"/NTM/NTM_001_256.png",
+        "preview":"NTM/NTM_001_256.png",
         "images":
         [
-            { "high":"/NTM/NTM_001_720.png", "low":"/NTM/NTM_001_256.png", "alt":"NTM 01"},
-            { "high":"/NTM/NTM_002_720.png", "low":"/NTM/NTM_002_256.png", "alt":"NTM 02"}
+            { "high":"NTM/NTM_001_720.png", "low":"/NTM/NTM_001_256.png", "alt":"NTM 01"},
+            { "high":"NTM/NTM_002_720.png", "low":"/NTM/NTM_002_256.png", "alt":"NTM 02"}
         ],
         "software":
         [
@@ -357,10 +357,10 @@
         "title":"Ultima Thule",
         "position":"Solo Developer",
         "description":"Solo inde-dev game project",
-        "preview":"/UTH/UTH_001_256.png",
+        "preview":"UTH/UTH_001_256.png",
         "images":
         [
-            { "high":"/UTH/UTH_001_1080.png", "low":"/UTH/UTH_001_256.png", "alt":"UTH 01"}
+            { "high":"UTH/UTH_001_1080.png", "low":"/UTH/UTH_001_256.png", "alt":"UTH 01"}
         ],
         "software":
         [

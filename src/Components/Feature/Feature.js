@@ -21,7 +21,7 @@ function Feature(props){
     })
     const softwareIcons = software.map(({ icon, alt }, i) => {
         return (
-            <img src={`${process.env.PUBLIC_URL}images/${icon}`} alt={alt}></img>
+            <img src={`${process.env.PUBLIC_URL}/images/${icon}`} alt={alt}></img>
         )
     })
     
