@@ -1,9 +1,38 @@
-.Intro {
-    outline: 2px;
-    outline-color: black;
+.About {
+    display: flex;
+    margin-top: 20px;
 }
 
-.Experience {
-    outline: 2px;
-    outline-color: black;
+.Primary {
+    display: inline-block;
+    flex: 3;
+    padding: 10px;
+}
+
+.Secondary {
+    display: inline-block;
+    flex: 1;
+    padding: 10px;
+}
+
+.SoftwareImage{
+    width: 33%;
+}
+
+@media only screen and (max-width: 960px){
+    .About {
+        display: block;
+    }
+    
+    .Primary {
+        width: 100%;
+    }
+    
+    .Secondary {
+        width: 100%;
+    }
+
+    .SoftwareImage{
+        width: 16.6666%;
+    }
 }

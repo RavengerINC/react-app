@@ -89,7 +89,12 @@
   .Nav li {
     float: unset;
     display: flex;
+    width: 25%;
     flex-direction: row;
     justify-content: center;
+  }
+
+  .Nav ul li {
+    line-height: 2.5em;
   }
 }
