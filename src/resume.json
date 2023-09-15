@@ -1,0 +1,27 @@
+[
+    {
+        "intro": {"title": "Title", "writeup": "Writeup"},
+        "experience":
+        [
+            {"title": "Title", "description": "description"},
+            {"title": "Title", "description": "description"},
+            {"title": "Title", "description": "description"},
+            {"title": "Title", "description": "description"}
+        ],
+        "software":
+        [
+            {"icon":"logos/logo_houdini_256.png", "alt":"Houdini"},
+            {"icon":"logos/logo_Nuke_256.png", "alt":"Nuke"},
+            {"icon":"logos/logo_Maya_256.png", "alt":"Maya"},
+            {"icon":"logos/logo_unity_256.png", "alt":"Unity"},
+            {"icon":"logos/logo_blender_256.png", "alt":"Blender"},
+            {"icon":"logos/logo_afterEffects_256.png", "alt":"After Effects"},
+            {"icon":"logos/logo_Photoshop_256.png", "alt":"Photoshop"},
+            {"icon":"logos/logo_finalCut_256.png", "alt":"Final Cut"},
+            {"icon":"logos/logo_flash_256.png", "alt":"Flash"},
+            {"icon":"logos/logo_github_256.png", "alt":"Github"},
+            {"icon":"logos/logo_Redshift_256.png", "alt":"Redshift"},
+            {"icon":"logos/logo_Renderman_256.png", "alt":"Renderman"}
+        ]
+    }
+]
