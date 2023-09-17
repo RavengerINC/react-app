@@ -12,8 +12,8 @@ function Header() {
             <div className="Nav">
                 <ul>
                     <li><NavLink to="/" className={({ isActive}) => (isActive ? "active-nav" : "pending-nav")}>Featured</NavLink></li>
-                    <li><NavLink to="/tv-work" className={({ isActive}) => (isActive ? "active-nav" : "pending-nav")}>TV Work</NavLink></li>
-                    <li><NavLink to="/game-work" className={({ isActive}) => (isActive ? "active-nav" : "pending-nav")}>Game Work</NavLink></li>
+                    <li><NavLink to="/tv-work" className={({ isActive}) => (isActive ? "active-nav" : "pending-nav")}>TV</NavLink></li>
+                    <li><NavLink to="/game-work" className={({ isActive}) => (isActive ? "active-nav" : "pending-nav")}>Game</NavLink></li>
                     <li><NavLink to="/about" className={({ isActive}) => (isActive ? "active-nav" : "pending-nav")}>About</NavLink></li>
                 </ul>
             </div>

@@ -17,6 +17,7 @@
 
 .SoftwareImage{
     width: 33%;
+    padding: 0.2em;
 }
 
 @media only screen and (max-width: 960px){
@@ -34,5 +35,6 @@
 
     .SoftwareImage{
         width: 16.6666%;
+        padding: 0.1em;
     }
 }

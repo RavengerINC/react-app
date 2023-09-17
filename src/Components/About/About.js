@@ -6,7 +6,7 @@ import './About.css';
 
 function About() {
     const { intro, experience, software } = resume[0];
-    const experienceList = experience.map(({ title, description }) => {
+    const experienceList = experience.map(() => {
         return (
             <li>
                 <Experience
