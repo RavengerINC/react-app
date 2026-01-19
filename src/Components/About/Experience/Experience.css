@@ -13,3 +13,12 @@
 .Description-inactive {
     display: none;
 }
+
+.toggleButton {
+    background: none;
+    border: none;
+    font-size: 24px;
+    font-weight: bold;
+    cursor: pointer;
+    padding: 0 8px;
+}

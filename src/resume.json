@@ -1,13 +1,54 @@
 [
     {
-        "intro": {"title": "Opening blurb", "writeup": "business, business, business.  Numbers, numbers, numbers"},
-        "experience":
+        "intro": {"title": "Resume", "writeup": "business, business, business.  Numbers, numbers, numbers"},
+        "studios":
         [
-            {"title": "Technical Director", "description": "dolor sit amet, consectetur adipiscing elit. Ut non magna ac nibh pharetra rutrum. Duis nec cursus magna. Duis ac cursus ligula. Morbi quam turpis, convallis nec tortor ut, accumsan efficitur ligula. Phasellus vestibulum nisl vel ligula faucibus, non scelerisque "},
-            {"title": "Technical Artist", "description": "dolor sit amet, consectetur adipiscing elit. Ut non magna ac nibh pharetra rutrum. Duis nec cursus magna. Duis ac cursus ligula. Morbi quam turpis, convallis nec tortor ut, accumsan efficitur ligula. Phasellus vestibulum nisl vel ligula faucibus, non scelerisque "},
-            {"title": "Lead VFX Artist", "description": "dolor sit amet, consectetur adipiscing elit. Ut non magna ac nibh pharetra rutrum. Duis nec cursus magna. Duis ac cursus ligula. Morbi quam turpis, convallis nec tortor ut, accumsan efficitur ligula. Phasellus vestibulum nisl vel ligula faucibus, non scelerisque "},
-            {"title": "VFX Artist", "description": "dolor sit amet, consectetur adipiscing elit. Ut non magna ac nibh pharetra rutrum. Duis nec cursus magna. Duis ac cursus ligula. Morbi quam turpis, convallis nec tortor ut, accumsan efficitur ligula. Phasellus vestibulum nisl vel ligula faucibus, non scelerisque "},
-            {"title": "Lead Compostior", "description": "dolor sit amet, consectetur adipiscing elit. Ut non magna ac nibh pharetra rutrum. Duis nec cursus magna. Duis ac cursus ligula. Morbi quam turpis, convallis nec tortor ut, accumsan efficitur ligula. Phasellus vestibulum nisl vel ligula faucibus, non scelerisque "}
+            {
+                "studio": "Ubisoft",
+                "dates": "July 2024 - Present",
+                "roles":
+                [
+                    {"title": "Senior Technical Artist", "description": "Designed tools and workflows for the VFX team.  Solved technical challenges in the VFX, Lighting, and Compositing departments.  Trained new and advancing colleagues.  Tackled advanced VFX requests."}
+                ]
+            },
+            {
+                "studio": "IoM Media",
+                "dates": "January 2019 - July 2024",
+                "roles":
+                    [
+                        {"title": "Back End Technical Director", "description": "Designed tools and workflows for the VFX team. Solved technical challenges in the VFX, Lighting, and Compositing departments. Trainednew and advancing colleagues. Tackled advanced VFX requests."},
+                        {"title": "FX Technical Director", "description": "dolor sit amet, consectetur adipiscing elit. Ut non magna ac nibh pharetra rutrum. Duis nec cursus magna. Duis ac cursus ligula. Morbi quam turpis, convallis nec tortor ut, accumsan efficitur ligula. Phasellus vestibulum nisl vel ligula faucibus, non scelerisque "},
+                        {"title": "Technical Artist", "description": "dolor sit amet, consectetur adipiscing elit. Ut non magna ac nibh pharetra rutrum. Duis nec cursus magna. Duis ac cursus ligula. Morbi quam turpis, convallis nec tortor ut, accumsan efficitur ligula. Phasellus vestibulum nisl vel ligula faucibus, non scelerisque "},
+                        {"title": "Lead Visual Effects Artist", "description": "dolor sit amet, consectetur adipiscing elit. Ut non magna ac nibh pharetra rutrum. Duis nec cursus magna. Duis ac cursus ligula. Morbi quam turpis, convallis nec tortor ut, accumsan efficitur ligula. Phasellus vestibulum nisl vel ligula faucibus, non scelerisque "}
+                    ]
+            },
+            {
+                "studio": "Mainframe",
+                "dates": "June 2022 - July 2023",
+                "roles":
+                    [
+                        {"title": "Lead VFX Artist", "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non magna ac nibh pharetra rutrum. Duis nec cursus magna. Duis ac cursus ligula. Morbi quam turpis, convallis nec tortor ut, accumsan efficitur ligula. Phasellus vestibulum nisl vel ligula faucibus, non scelerisque "}
+                    ]
+            },
+            {
+                "studio": "DHX Media",
+                "dates": "July 2016 - December 2018",
+                "roles":
+                    [
+                        {"title": "Visual Effects Artist", "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non magna ac nibh pharetra rutrum. Duis nec cursus magna. Duis ac cursus ligula. Morbi quam turpis, convallis nec tortor ut, accumsan efficitur ligula. Phasellus vestibulum nisl vel ligula faucibus, non scelerisque "},
+                        {"title": "Compositing Artist", "description": "dolor sit amet, consectetur adipiscing elit. Ut non magna ac nibh pharetra rutrum. Duis nec cursus magna. Duis ac cursus ligula. Morbi quam turpis, convallis nec tortor ut, accumsan efficitur ligula. Phasellus vestibulum nisl vel ligula faucibus, non scelerisque "}
+                    ]
+            },
+            {
+                "studio": "Copernicus Studios",
+                "dates": "July 2010 - May 2016",
+                "roles":
+                    [
+                        {"title": "Lead Compositing Artist", "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non magna ac nibh pharetra rutrum. Duis nec cursus magna. Duis ac cursus ligula. Morbi quam turpis, convallis nec tortor ut, accumsan efficitur ligula. Phasellus vestibulum nisl vel ligula faucibus, non scelerisque "},
+                        {"title": "Compositing Artist", "description": "dolor sit amet, consectetur adipiscing elit. Ut non magna ac nibh pharetra rutrum. Duis nec cursus magna. Duis ac cursus ligula. Morbi quam turpis, convallis nec tortor ut, accumsan efficitur ligula. Phasellus vestibulum nisl vel ligula faucibus, non scelerisque "},
+                        {"title": "Animatic Editor", "description": "dolor sit amet, consectetur adipiscing elit. Ut non magna ac nibh pharetra rutrum. Duis nec cursus magna. Duis ac cursus ligula. Morbi quam turpis, convallis nec tortor ut, accumsan efficitur ligula. Phasellus vestibulum nisl vel ligula faucibus, non scelerisque "}
+                    ]
+            }
         ],
         "software":
         [

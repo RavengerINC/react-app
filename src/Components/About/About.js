@@ -1,17 +1,19 @@
 import React from 'react';
 import Blurb from './Blurb/Blurb';
-import Experience from './Experience/Experience';
+import Studio from './Blurb/Studio/Studio';
 import resume from '../../resume.json';
 import './About.css';
 
 function About() {
-    const { intro, experience, software } = resume[0];
-    const experienceList = experience.map(({title, description}) => {
+    const { intro, studios, software } = resume[0];
+    
+    const studioList = studios.map(({studio, dates, roles}) => {
         return (
             <li>
-                <Experience
-                    title={ title }
-                    description={ description}
+                <Studio
+                    studio={ studio }
+                    dates={ dates}
+                    roles={ roles }
                 />
             </li>
         )
@@ -33,7 +35,7 @@ function About() {
                 </div>
                 <div className="Experience">
                     <ul>
-                        { experienceList }
+                        { studioList }
                     </ul>
                 </div>
             </div>

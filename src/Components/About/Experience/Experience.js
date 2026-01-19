@@ -12,10 +12,11 @@ function Experience(props) {
     return (
         <div className="Experience">
             <div className="TitleBar">
-                <label>
-                    <input type="checkbox" defaultChecked={isToggled} onClick={toggleVisibility} />
-                </label>
-                <h1>{ title }</h1>
+                <button className="toggleButton" onClick={toggleVisibility}>
+                    {isToggled ? '−' : '+'}
+                </button>
+    <p>{ title }</p>
+                <p>{ title }</p>
             </div>
                 {isToggled && <div className="Description">
                 <p>{ description }</p>
