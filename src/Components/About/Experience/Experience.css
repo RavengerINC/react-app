@@ -1,3 +1,15 @@
-.Experience {
-    
+.TitleBar {
+    display: flex;
+}
+
+.TitleBar h1 {
+    padding-left: 10px;
+}
+
+.Description-active {
+    display: block;
+}
+
+.Description-inactive {
+    display: none;
 }

@@ -1,13 +1,13 @@
 [
     {
-        "intro": {"title": "Title", "writeup": "Writeup"},
+        "intro": {"title": "Opening blurb", "writeup": "business, business, business.  Numbers, numbers, numbers"},
         "experience":
         [
-            {"title": "Title", "description": "description"},
-            {"title": "Title", "description": "description"},
-            {"title": "Title", "description": "description"},
-            {"title": "Title", "description": "description"},
-            {"title": "Title", "description": "description"}
+            {"title": "Technical Director", "description": "dolor sit amet, consectetur adipiscing elit. Ut non magna ac nibh pharetra rutrum. Duis nec cursus magna. Duis ac cursus ligula. Morbi quam turpis, convallis nec tortor ut, accumsan efficitur ligula. Phasellus vestibulum nisl vel ligula faucibus, non scelerisque "},
+            {"title": "Technical Artist", "description": "dolor sit amet, consectetur adipiscing elit. Ut non magna ac nibh pharetra rutrum. Duis nec cursus magna. Duis ac cursus ligula. Morbi quam turpis, convallis nec tortor ut, accumsan efficitur ligula. Phasellus vestibulum nisl vel ligula faucibus, non scelerisque "},
+            {"title": "Lead VFX Artist", "description": "dolor sit amet, consectetur adipiscing elit. Ut non magna ac nibh pharetra rutrum. Duis nec cursus magna. Duis ac cursus ligula. Morbi quam turpis, convallis nec tortor ut, accumsan efficitur ligula. Phasellus vestibulum nisl vel ligula faucibus, non scelerisque "},
+            {"title": "VFX Artist", "description": "dolor sit amet, consectetur adipiscing elit. Ut non magna ac nibh pharetra rutrum. Duis nec cursus magna. Duis ac cursus ligula. Morbi quam turpis, convallis nec tortor ut, accumsan efficitur ligula. Phasellus vestibulum nisl vel ligula faucibus, non scelerisque "},
+            {"title": "Lead Compostior", "description": "dolor sit amet, consectetur adipiscing elit. Ut non magna ac nibh pharetra rutrum. Duis nec cursus magna. Duis ac cursus ligula. Morbi quam turpis, convallis nec tortor ut, accumsan efficitur ligula. Phasellus vestibulum nisl vel ligula faucibus, non scelerisque "}
         ],
         "software":
         [
@@ -15,9 +15,10 @@
             {"icon":"logos/logo_nuke_256.png", "alt":"Nuke"},
             {"icon":"logos/logo_maya_256.png", "alt":"Maya"},
             {"icon":"logos/logo_unity_256.png", "alt":"Unity"},
-            {"icon":"logos/logo_blender_256.png", "alt":"Blender"},
+            {"icon":"logos/logo_unreal_256.png", "alt":"Unreal"},
             {"icon":"logos/logo_afterEffects_256.png", "alt":"After Effects"},
             {"icon":"logos/logo_photoshop_256.png", "alt":"Photoshop"},
+            {"icon":"logos/logo_blender_256.png", "alt":"Blender"},
             {"icon":"logos/logo_finalCut_256.png", "alt":"Final Cut"},
             {"icon":"logos/logo_flash_256.png", "alt":"Flash"},
             {"icon":"logos/logo_github_256.png", "alt":"Github"},

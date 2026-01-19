@@ -1,22 +1,26 @@
 import React from 'react';
-import { Toggle } from '../../Toggle/Toggle';
 import './Experience.css';
+import { useState } from 'react'
 
 function Experience(props) {
     const { title, description } = props
-    const logState = state => {
-        console.log("Toggled:", state)
+    const [isToggled, toggle] = useState(false)
+    const toggleVisibility = () => {
+        toggle(!isToggled);
     }
 
     return (
         <div className="Experience">
-            <Toggle
-                label="Toggle me"
-                toggled={true}
-                onClick={logState}
-            />
-            <h1>{ title }</h1>
-            <p>{ description }</p>
+            <div className="TitleBar">
+                <label>
+                    <input type="checkbox" defaultChecked={isToggled} onClick={toggleVisibility} />
+                </label>
+                <h1>{ title }</h1>
+            </div>
+
+            {isToggled && <div className="Description">
+                <p>{ description }</p>
+            </div>}
         </div>
     )
 }

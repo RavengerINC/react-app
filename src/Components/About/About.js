@@ -6,12 +6,12 @@ import './About.css';
 
 function About() {
     const { intro, experience, software } = resume[0];
-    const experienceList = experience.map(() => {
+    const experienceList = experience.map(({title, description}) => {
         return (
             <li>
                 <Experience
-                    title="Experience"
-                    description="Description"
+                    title={ title }
+                    description={ description}
                 />
             </li>
         )
