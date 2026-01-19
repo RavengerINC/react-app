@@ -3,6 +3,12 @@
     margin-top: 20px;
 }
 
+.About-column {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
 .Primary {
     display: inline-block;
     flex: 3;

@@ -17,8 +17,7 @@ function Experience(props) {
                 </label>
                 <h1>{ title }</h1>
             </div>
-
-            {isToggled && <div className="Description">
+                {isToggled && <div className="Description">
                 <p>{ description }</p>
             </div>}
         </div>

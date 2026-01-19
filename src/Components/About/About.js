@@ -18,7 +18,7 @@ function About() {
     })
     const softwareList = software.map(({ icon, alt}) => {
         return (
-            <img src={`${process.env.PUBLIC_URL}/images/${icon}`} alt={alt} className="SoftwareImage"></img>
+            <img src={`${process.env.PUBLIC_URL}/images/${icon}`} alt={alt} className="SoftwareImage" title={alt}></img>
         )
     })
 
