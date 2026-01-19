@@ -15,7 +15,6 @@ function Experience(props) {
                 <button className="toggleButton" onClick={toggleVisibility}>
                     {isToggled ? '−' : '+'}
                 </button>
-    <p>{ title }</p>
                 <p>{ title }</p>
             </div>
                 {isToggled && <div className="Description">
