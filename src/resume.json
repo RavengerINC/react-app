@@ -8,7 +8,7 @@
                 "dates": "July 2024 - Present",
                 "roles":
                 [
-                    {"title": "Senior Technical Artist", "description": "Collaborated closely with the team to bring the game’s creative vision to life. Resolved complex visual‑production challenges, built scalable tools and workflows, developed custom shaders and rendering techniques, and produced high‑quality visual effects. Unannounced project."}
+                    {"title": "Senior Technical Artist", "description": "Collaborated closely with the team to bring the game's creative vision to life. Resolved complex visual-production challenges, built scalable tools and workflows, developed custom shaders and rendering techniques, and produced high-quality visual effects. Unannounced project."}
                 ]
             },
             {
@@ -16,9 +16,9 @@
                 "dates": "January 2019 - July 2024",
                 "roles":
                     [
-                        {"title": "Back End Technical Director", "description": "Designed tools and workflows for the VFX team. Solved technical challenges in the VFX, Lighting, and Compositing departments. Trainednew and advancing colleagues. Tackled advanced VFX requests."},
-                        {"title": "FX Technical Director", "description": ""},
-                        {"title": "Technical Artist", "description": ""},
+                        {"title": "Back End Technical Director", "description": "Designed tools and workflows for the VFX team. Solved technical challenges in the VFX, Lighting, and Compositing departments. Trained new and advancing colleagues. Tackled advanced VFX requests."},
+                        {"title": "FX Technical Director", "description": "Created realistic digital effects like water, fire, and smoke using Houdini.  Rendered the simulations in Houdini or Maya, and composited them in Nuke."},
+                        {"title": "Technical Artist", "description": "Worked on procedural effects like ocean surfaces, beaches, and boat wakes."},
                         {"title": "Lead Visual Effects Artist", "description": ""}
                     ]
             },
@@ -27,7 +27,7 @@
                 "dates": "June 2022 - July 2023",
                 "roles":
                     [
-                        {"title": "Lead VFX Artist", "description": "Created visual elements for an ambitious TV animation project using Houdini and Nuke. Emphasized self-direction and communication toallow for working remotely and outside studio hours."}
+                        {"title": "Lead VFX Artist", "description": "Created visual elements for an ambitious TV animation project using Houdini and Nuke. Emphasized self-direction and communication to allow for working remotely and outside studio hours."}
                     ]
             },
             {
