@@ -1,12 +1,8 @@
-.Blurb {
-    
-}
-
 .Row {
     display: flex;
 }
 
-h1 {
-    
-    padding-left: 25px;
+.Row h1 {
+    color: black;
+    padding-left: 25px;    
 }
