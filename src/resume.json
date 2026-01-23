@@ -8,7 +8,7 @@
                 "dates": "July 2024 - Present",
                 "roles":
                 [
-                    {"title": "Senior Technical Artist", "description": "Collaborated closely with the team to bring the game's creative vision to life. Resolved complex visual-production challenges, built scalable tools and workflows, developed custom shaders and rendering techniques, and produced high-quality visual effects. Unannounced project."}
+                    {"title": "Senior Technical Artist", "description": "Collaborated closely with the team to bring an unreleased game's creative vision to life. Resolved complex visual-production challenges, built scalable tools and workflows, developed custom shaders and rendering techniques, and produced high-quality visual effects.  Focused on the rendering and VFX needs of the project while ensuring performance remained within budget for target platforms."}
                 ]
             },
             {
@@ -18,8 +18,8 @@
                     [
                         {"title": "Back End Technical Director", "description": "Designed tools and workflows for the VFX team. Solved technical challenges in the VFX, Lighting, and Compositing departments. Trained new and advancing colleagues. Tackled advanced VFX requests."},
                         {"title": "FX Technical Director", "description": "Created realistic digital effects like water, fire, and smoke using Houdini.  Rendered the simulations in Houdini or Maya, and composited them in Nuke."},
-                        {"title": "Technical Artist", "description": "Worked on procedural effects like ocean surfaces, beaches, and boat wakes."},
-                        {"title": "Lead Visual Effects Artist", "description": ""}
+                        {"title": "Technical Artist", "description": "Worked on procedural effects to alleviate repetitive VFX from the VFX team.  Examples include ocean setups, shoreline interations, and boat wakes."},
+                        {"title": "Lead Visual Effects Artist", "description": "Managed a team of three VFX artists and 8 Compositors to deliver VFX shots matching the quality and style of the project.  Worked closely with directors to break down the work needed for each episode, created schedules to deliver episodes within the production deadlines, gave feedback to artists, and ensured smooth communication between departments."}
                     ]
             },
             {
@@ -35,8 +35,8 @@
                 "dates": "July 2016 - December 2018",
                 "roles":
                     [
-                        {"title": "Visual Effects Artist", "description": ""},
-                        {"title": "Compositing Artist", "description": ""}
+                        {"title": "Visual Effects Artist", "description": "Worked with the VFX lead to create high-quality visual effects for an animated TV series using Houdini and Nuke.  Helped set up the VFX pipelines and help determine the creative direction of the show's VFX."},
+                        {"title": "Compositing Artist", "description": "Created VFX and colour treatments for shots in an animated TV series using Nuke.  Supplied tools for resuable VFX and common tasks to the compositing team."}
                     ]
             },
             {
@@ -44,9 +44,10 @@
                 "dates": "July 2010 - May 2016",
                 "roles":
                     [
-                        {"title": "Lead Compositing Artist", "description": ""},
-                        {"title": "Compositing Artist", "description": ""},
-                        {"title": "Animatic Editor", "description": ""}
+                        {"title": "Lead Compositing Artist", "description": "Managed a team of compositors working on several animated TV series.  Assigned worked, supplied feedback, set the creative direction, and communicated with directors and producers to ensure the compositing team delivered episodes on time."},
+                        {"title": "Compositing Artist", "description": "Created VFX in After Effects to enhance or replace 2D effects.  Designed and added colour treatments to create different atmospheres and moods for scenes."},
+                        {"title": "Offline Editor", "description": "Brought together all the shots all the WIP and final shots of the episode into one timeline and edited to match the timing of the animatic.  Ensured that the episode was the correct length and followed all technical specifications for delivery.  Delivered WIP edits to the director for review and final edits for delivery to the broadcaster."},
+                        {"title": "Animatic Editor", "description": "Brought storyboard panels and audio clips into a timeline and roughly edited them together to create the blueprints of an episode.  Collaborated with the director to adjust timing and pacing to match their creative vision."}
                     ]
             }
         ],
