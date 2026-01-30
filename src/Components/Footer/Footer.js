@@ -5,7 +5,7 @@ function Footer () {
     return (
         <div className="Footer">
             <li>James Dalziel</li>
-            <li>2026-01-23</li>
+            <li>2026-01-30</li>
         </div>
     )
 }
