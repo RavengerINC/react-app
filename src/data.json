@@ -396,6 +396,6 @@
             {"icon":"logos/logo_maya_256.png", "alt":"Maya"},
             {"icon":"logos/logo_nuke_256.png", "alt":"Nuke"}
         ],
-        "writeup":"Ultima Thule is the working name of my long-time Unity game project. Started over a decade ago with zero game devlopment knowledge the project has grown, shrunk, been tossed out and started from scratch. The only constants in the project have been the use of the Unity game engine and desire to expand on the beloved turn-based games of my youth."
+        "writeup":""
     }
 ]
