@@ -371,5 +371,31 @@
             {"icon":"logos/logo_github_256.png", "alt":"Github"}
         ],
         "writeup":"Ultima Thule is the working name of my long-time Unity game project. Started over a decade ago with zero game devlopment knowledge the project has grown, shrunk, been tossed out and started from scratch. The only constants in the project have been the use of the Unity game engine and desire to expand on the beloved turn-based games of my youth."
+    },
+
+    {
+        "id":"14",
+        "project":"UCA",
+        "date":"2024-06-01",
+        "category":"tv-animation",
+        "title":"Unicorn Academy",
+        "position":"Senior Visual Effects Artist",
+        "description":"Unicorn Academy movie and shorts",
+        "preview":"UCA/UCA_001_256.png",
+        "images":
+        [
+            { "high":"UCA/UCA_001_1080.png", "low":"/UCA/UCA_001_256.png", "alt":"Unicorn Academy 01"},
+            { "high":"UCA/UCA_002_1080.png", "low":"/UCA/UCA_002_256.png", "alt":"Unicorn Academy 02"},
+            { "high":"UCA/UCA_003_1080.png", "low":"/UCA/UCA_003_256.png", "alt":"Unicorn Academy 03"},
+            { "high":"UCA/UCA_004_1080.png", "low":"/UCA/UCA_004_256.png", "alt":"Unicorn Academy 04"},
+            { "high":"UCA/UCA_005_1080.png", "low":"/UCA/UCA_005_256.png", "alt":"Unicorn Academy 05"}
+        ],
+        "software":
+        [
+            {"icon":"logos/logo_houdini_256.png", "alt":"Houdini"},
+            {"icon":"logos/logo_maya_256.png", "alt":"Maya"},
+            {"icon":"logos/logo_nuke_256.png", "alt":"Nuke"}
+        ],
+        "writeup":"Ultima Thule is the working name of my long-time Unity game project. Started over a decade ago with zero game devlopment knowledge the project has grown, shrunk, been tossed out and started from scratch. The only constants in the project have been the use of the Unity game engine and desire to expand on the beloved turn-based games of my youth."
     }
 ]
